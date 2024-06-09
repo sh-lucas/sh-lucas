@@ -1,16 +1,21 @@
-## Hi there 👋
+## 💜 Lucas Schwalm Silva
 
-<!--
-**Coffee-for-Cats/Coffee-for-Cats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Engineering in UERGS, Brazil;
+- 19 years, now drinking coffee;
 
-Here are some ideas to get you started:
+### 💻 Techs
+<ul style="display: flex">
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Learning
+<ul style="display: flex">
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+</ul>
+
+## 🔗 Contact me:
+- [Email Me](mailto:lucas-silva06@uergs.edu.br)
+- [My Website](https://lucas.schwalm.silva.vercel.app/)
