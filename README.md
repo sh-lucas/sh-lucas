@@ -1,7 +1,7 @@
 ## 💜 Lucas Schwalm Silva
 
 - Computer Engineering in UERGS, Brazil;
-- 19 years, now drinking coffee;
+- Coding coffee and drinking software;
 
 ### 💻 Most used Techs
 <ul style="display: flex">
