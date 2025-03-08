@@ -21,5 +21,5 @@
 </ul>
 
 ## 🔗 Contact me:
-- [Email Me](mailto:lucas-silva06@uergs.edu.br)
+- [Email Me](mailto:lucas.schwalm.silva@gmail.com)
 - [My Website](https://lucas-schwalm-silva.vercel.app/)
